@@ -1,5 +1,8 @@
-<img src='https://drive.google.com/file/d/1BITX0WkvFNNuzSsf62vmItXmD03wCRBV/view?usp=sharing'/>
-I am a full stack developer currently working at Daimler Trucks Innovation Centre India. My work revolves around working with Telematics data with Daimler Trucks North America team. It's fun.  
+<h1 align="center">Hey 👋, I'm Supritha</h1>
+<h3 align="center">💻</h3>
+
+<p>I am a full stack developer currently working at Daimler Trucks Innovation Centre India. My work revolves around working with Telematics data with Daimler Trucks North America team. It's fun. </p>
+
 <br></br>
 <div display='flex' justify-content='space-between'>
   <span>
