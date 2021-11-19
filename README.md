@@ -1,5 +1,5 @@
-[![MasterHead](your image link)](https://github.com/shwetaps605)
-
+<!-- [![MasterHead](your image link)](https://github.com/shwetaps605)
+ -->
 <h1 align="center">Hey 👋, I'm Shweta. Hajimemashite! </h1>
 <h3 align="center">💻</h3>
 
@@ -28,7 +28,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232AF7A9&center=true&lines=Always+open+for+collaborations+and+book+recommendations!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232AF7A9&center=true&lines=Always+open+to+collaborations!)](https://git.io/typing-svg)
 
 
 
