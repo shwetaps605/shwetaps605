@@ -4,20 +4,20 @@ I am a full stack developer currently working at Daimler Trucks Innovation Centr
 
 <br></br>
 
-<div display='flex' flex-direction='row'>
+<div display='flex' justify-content='space-between'>
   <span>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetaps605&show_icons=true&theme=radical&hide_border=true" />
   </span>
+  
   <span>
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shwetaps605&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </span>
 </div>
 
+<div>
+ <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=shwetaps605&layout=compact&theme=radical&hide_border=true'/>
+</div>
 
-
-<p align='center'>
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=shwetaps605&layout=compact&theme=radical&hide_border=true'/>
-</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232AF7A9&center=true&lines=Always+open+for+collaborations+!)](https://git.io/typing-svg)
 
