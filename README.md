@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Shweta</h1>
+<h1 align="center">Hey 👋, I'm Shweta. Hajimemashite! </h1>
 <h3 align="center">💻</h3>
 
 <p>I am a full stack developer currently working at Daimler Trucks Innovation Centre India. My work revolves around working with Telematics data with Daimler Trucks North America team. It's fun. </p>
@@ -16,6 +16,13 @@
 <div align='center'>
  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=shwetaps605&layout=compact&theme=radical&hide_border=true'/>
 </div>
+
+### 🚀 About
+- 🎓 Majored in Computer Science and Engineering (Class of 2021) 
+- 👀 I'm currently focusing on **Web2** and exploring **Web3** through a peephole
+- 🔭 I'm currently learning **ReactJS, Solidity**
+- 💬 Love to talk about:**tech, movies, series, animes**
+- **Coding helps me sleep better**❤️
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232AF7A9&center=true&lines=Always+open+for+collaborations+!)](https://git.io/typing-svg)
 
