@@ -5,12 +5,12 @@ I am a full stack developer currently working at Daimler Trucks Innovation Centr
 <br></br>
 
 <div display='flex' flex-direction='row'>
-  <div>
+  <span>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetaps605&show_icons=true&theme=radical&hide_border=true" />
-  </div>
-  <div>
+  </span>
+  <span>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetaps605&layout=compact&theme=radical&hide_border=true" />
-  </div>
+  </span>
 </div>
 
 
