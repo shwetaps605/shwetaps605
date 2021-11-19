@@ -1,5 +1,7 @@
 <h1> Hi, I am Shweta. 👋🏾 👩🏾‍💻 </h2>
-I am a full stack developer currently working at Daimler Trucks Innovation Centre India. My work revolves around working with Telematics data with Daimler Trucks North America team. It's fun. 
+I am a full stack developer currently working at Daimler Trucks Innovation Centre India. My work revolves around working with Telematics data with Daimler Trucks North America team. It's fun.  
+
+<br></br>
 
 <a href="https://github.com/shwetaps605/shwetaps605">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetaps605&layout=compact&theme=radical" />
