@@ -9,11 +9,11 @@ I am a full stack developer currently working at Daimler Trucks Innovation Centr
 
 
 <p>
- <img src='https://github-readme-stats.vercel.app/api?username=shwetaps605&show_icons=true&theme=radical'/>
+ <img  align="center" src='https://github-readme-stats.vercel.app/api?username=shwetaps605&show_icons=true&theme=radical'/>
 </p>
 
 <p>
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=shwetaps605&layout=compact')/> 
+ <img  align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=shwetaps605&layout=compact')/> 
 </p>
 
 <p>
