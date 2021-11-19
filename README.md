@@ -1,4 +1,4 @@
-<a href="https://ibb.co/MsSs7gs"><img src="https://i.ibb.co/37d7cT7/banner.png" alt="banner" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>free online image hosting</a><br />
+<img align='center' src="https://i.ibb.co/37d7cT7/banner.png" alt="banner" border="0"><br />
  
 <h1 align="center">Hey 👋, I'm Shweta. Hajimemashite! </h1>
 <h3 align="center">💻</h3>
