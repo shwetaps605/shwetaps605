@@ -5,11 +5,11 @@ I am a full stack developer currently working at Daimler Trucks Innovation Centr
 <br></br>
 
 <a href="https://github.com/shwetaps605/shwetaps605" float='left'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetaps605&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetaps605&show_icons=true&theme=radical&hide_border=true" />
 </a>
 
 <a href="https://github.com/shwetaps605/shwetaps605" float='right'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetaps605&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetaps605&layout=compact&theme=radical&hide_border=true" />
 </a>
 
 <p align='center'>
