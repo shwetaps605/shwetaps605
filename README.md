@@ -9,7 +9,7 @@ I am a full stack developer currently working at Daimler Trucks Innovation Centr
 
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=V2dha&show_icons=true&title_color=4E1C94&icon_color=4E1C94&text_color=0F0321&bg_color=FFFFFF" alt="V2dha"/> 
+ ![Shweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwetaps605&show_icons=true&theme=radical)
 </p>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=V2dha" alt="V2dha" /> <a href="https://twitter.com/Vvdha"> <img src="https://img.shields.io/twitter/url/https/twitter.com/Vvdha.svg?style=social&label=Follow%20%40Vvdha" /> </a> </p> 
  
