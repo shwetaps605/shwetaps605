@@ -12,6 +12,11 @@ I am a full stack developer currently working at Daimler Trucks Innovation Centr
  <img src='https://github-readme-stats.vercel.app/api?username=shwetaps605&show_icons=true&theme=radical'/>
 </p>
 
+<p>
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=shwetaps605&layout=compact')/> 
+</p>
+
+
 <p> 
  <a href="https://twitter.com/OyeRoyy"> 
   <img src="https://img.shields.io/twitter/url/https/twitter.com/OyeRoyy.svg?style=social&label=Follow%20%40OyeRoyy" /> 
