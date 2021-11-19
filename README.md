@@ -11,14 +11,16 @@ I am a full stack developer currently working at Daimler Trucks Innovation Centr
   </span>
 </div>
 
-<br></br>
+<div></div>
 
 <div align='center'>
  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=shwetaps605&layout=compact&theme=radical&hide_border=true'/>
 </div>
 
+<p align='center'>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232AF7A9&center=true&lines=Always+open+for+collaborations+!)](https://git.io/typing-svg)
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232AF7A9&center=true&lines=Always+open+for+collaborations+!)](https://git.io/typing-svg)
 
 <!-- <p> 
  <a href="https://twitter.com/OyeRoyy"> 
