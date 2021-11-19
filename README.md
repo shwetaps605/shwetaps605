@@ -8,14 +8,14 @@ I am a full stack developer currently working at Daimler Trucks Innovation Centr
   <span>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetaps605&show_icons=true&theme=radical&hide_border=true" />
   </span>
-  
+  <span width='3px'></span>
   <span>
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shwetaps605&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </span>
 </div>
 
-<div>
- <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=shwetaps605&layout=compact&theme=radical&hide_border=true'/>
+<div align='center'>
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=shwetaps605&layout=compact&theme=radical&hide_border=true'/>
 </div>
 
 
