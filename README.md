@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Supritha</h1>
+<h1 align="center">Hey 👋, I'm Shweta</h1>
 <h3 align="center">💻</h3>
 
 <p>I am a full stack developer currently working at Daimler Trucks Innovation Centre India. My work revolves around working with Telematics data with Daimler Trucks North America team. It's fun. </p>
@@ -7,9 +7,6 @@
 <div display='flex' justify-content='space-between'>
   <span>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetaps605&show_icons=true&theme=radical&hide_border=true" />
-  </span>
-
-  <span>
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shwetaps605&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </span>
 </div>
