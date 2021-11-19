@@ -1,7 +1,6 @@
 <!-- <img align='center' src="" alt="banner" border="0"><br /> -->
 ![](https://github.com/shwetaps605/shwetaps605/blob/main/header.png)
-<h1 align="center">Hey 👋, I'm Shweta. Hajimemashite! </h1>
-<h3 align="center">💻</h3>
+<h1 align="center">Hajimemashite!</h1>
 
 <p>I am a full stack developer currently working at Daimler Trucks Innovation Centre India. My work revolves around working with Telematics data with Daimler Trucks North America team. It's fun. </p>
 
@@ -10,7 +9,7 @@
 - 👀 I'm currently focusing on **Web2** and exploring **Web3** through a peephole
 - 🔭 I'm currently learning **ReactJS, Solidity**
 - 💬 Love to talk about:**books,tech, movies, series, animes**
-- **Coding helps me sleep better**❤️
+- 💻 **Coding helps me sleep better**
 
 <br></br>
 <!-- <div display='flex' justify-content='space-between'>
