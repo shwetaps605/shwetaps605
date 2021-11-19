@@ -8,11 +8,11 @@ I am a full stack developer currently working at Daimler Trucks Innovation Centr
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:shwetaroy305@gmail.com)
 
 
-<p align="right">
+<p>
  <img src='https://github-readme-stats.vercel.app/api?username=shwetaps605&show_icons=true&theme=radical'/>
 </p>
 
-<p align="right"> 
+<p> 
  <a href="https://twitter.com/OyeRoyy"> 
   <img src="https://img.shields.io/twitter/url/https/twitter.com/OyeRoyy.svg?style=social&label=Follow%20%40OyeRoyy" /> 
  </a> 
