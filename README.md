@@ -17,7 +17,7 @@ I am a full stack developer currently working at Daimler Trucks Innovation Centr
 </p>
 
 <p>
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=shwetaps605&layout=compact'/>
+ <img src='http://github-readme-streak-stats.herokuapp.com?user=shwetaps605&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D'/>
 </p>
 
 
