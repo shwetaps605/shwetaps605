@@ -1,4 +1,4 @@
- [![MasterHead](https://ibb.co/MsSs7gs)](https://github.com/shwetaps605)
+ <img align='center' src='https://ibb.co/MsSs7gs'/>
  
 <h1 align="center">Hey 👋, I'm Shweta. Hajimemashite! </h1>
 <h3 align="center">💻</h3>
