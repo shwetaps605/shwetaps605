@@ -1,9 +1,9 @@
-<h1> Hi 👋🏾 👩🏾‍💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
+<h1> Hi, I am Shweta. 👋🏾 👩🏾‍💻 </h2>
 <img  align='right' src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4jDknYN0aCPtudyMf63Csj0WcqbLRuyEIHKcG7ADvf27">
 I am a full stack developer currently working at Daimler Trucks Innovation Centre India. My work revolves around working with Telematics data with Daimler Trucks North America team. It's fun. 
 
 
-
+<br></br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividharawat/)](https://www.linkedin.com/in/vividharawat/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:shwetaroy305@gmail.com)
 
