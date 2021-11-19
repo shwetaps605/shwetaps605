@@ -2,7 +2,7 @@
 ![](https://github.com/shwetaps605/shwetaps605/blob/main/banner.png)
 
 <h3>Hajimemashite!</h3>
-<p>I am a full stack developer currently working at Daimler Trucks Innovation Centre India. My work revolves around working with Telematics data with Daimler Trucks North America team. It's fun. </p>
+<p>I am a full stack developer currently working at Daimler Trucks Innovation Centre India. My work revolves around working with Telematics data with Daimler Trucks North America team. </p>
 
 ### 🚀 About
 - 🎓 Majored in Computer Science and Engineering (Class of 2021) 
