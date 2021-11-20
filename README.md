@@ -23,10 +23,7 @@
 
 <div></div>
 
-<div align='center'>
- <img src='http://github-readme-streak-stats.herokuapp.com?user=shwetaps605&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D'/>
-</div>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shwetaps605&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br></br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232AF7A9&center=true&lines=Always+open+to+collaborations!)](https://git.io/typing-svg)
 
