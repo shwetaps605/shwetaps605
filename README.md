@@ -4,6 +4,8 @@
 <h3>Hajimemashite!</h3>
 <p>I am a full stack developer currently working at Daimler Trucks Innovation Centre India, Bengaluru, India. My work revolves around working with Telematics data for the Daimler Trucks North America team. </p>
 
+<br/>
+
 ### 🚀 About
 - 🎓 Majored in Computer Science and Engineering (Class of 2021) 
 - 👀 I'm currently focusing on **Web2** and exploring **Web3** through a peephole
