@@ -1,7 +1,7 @@
 <!-- <img align='center' src="" alt="banner" border="0"><br /> -->
 ![](https://github.com/shwetaps605/shwetaps605/blob/main/banner.png)
 
-<h3>Hajimemashite!</h3>
+<h3>Hajimemashite!</h3> (Nice to meet you)
 <p>I am a full stack developer currently working at Daimler Trucks Innovation Centre India, Bengaluru, India. My work revolves around working with Telematics data for the Daimler Trucks North America team. </p>
 
 <br/>
