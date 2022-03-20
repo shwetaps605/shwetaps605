@@ -10,7 +10,7 @@
 - 🎓 Majored in Computer Science and Engineering (Class of 2021) 
 - 👀 I'm currently focusing on **Web2** and exploring **Web3** through a peephole
 - 🔭 I'm currently learning **ReactJS, Solidity**
-- 💬 Love to talk about:**books,tech, movies, series, animes**
+- 💬 Love to talk about:**books,tech, movies, tv and web series, animes**
 - 💻 **Coding helps me sleep better**
 
 <br></br>
