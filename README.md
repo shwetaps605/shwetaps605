@@ -2,7 +2,7 @@
 ![](https://github.com/shwetaps605/shwetaps605/blob/main/banner.png)
 
 <h3>Hajimemashite!</h3> (Nice to meet you)
-<p>I am a full stack developer currently working at Daimler Trucks Innovation Centre India, Bengaluru, India. My work revolves around working with Telematics data for the Daimler Trucks North America team. </p>
+<p>I am a full stack developer currently working at Daimler Trucks Innovation Centre India, Bengaluru, India. My current work revolves around setting up a global, unified serrvice management platform for multiple partners at CSG-Service Activation crew. </p>
 
 <br/>
 
