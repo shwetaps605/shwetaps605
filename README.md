@@ -2,7 +2,7 @@
 ![](https://github.com/shwetaps605/shwetaps605/blob/main/banner.png)
 
 <h3>Hajimemashite!</h3> (Nice to meet you)
-<p>I am a full stack developer currently working at Daimler Trucks Innovation Centre India, Bengaluru, India. My current work revolves around setting up a global, unified serrvice management platform for multiple partners at CSG-Service Activation crew. </p>
+<p>I am a full stack developer currently working at Daimler Trucks Innovation Centre India, Bengaluru, India. My current work revolves around setting up a global, unified serrvice management platform for multiple partners at CSG-Service Activation crew. I mostly work with Java Spring boot, Angular, React and Redux. I am brushing up on my devops skills.</p>
 
 <br/>
 
