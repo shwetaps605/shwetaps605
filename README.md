@@ -22,10 +22,10 @@
 </div> -->
 
 
-
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shwetaps605)](https://git.io/streak-stats)
+
 <br></br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232AF7A9&center=true&lines=Always+open+to+collaborations!)](https://git.io/typing-svg)
 
 
