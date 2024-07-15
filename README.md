@@ -3,7 +3,7 @@
 
 <h3>Hajimemashite!</h3> (Nice to meet you)
 <br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232AF7A9&center=true&lines=Always+open+to+collaborations!)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232AF7A9&center=true&lines=Always+open+to+collaborations!)](https://git.io/typing-svg) -->
 
 <p>I am a full stack developer currently working at Daimler Trucks Innovation Centre India, Bengaluru, India. My current work revolves around setting up a global, unified serrvice management platform for multiple partners at CSG-Service Activation crew. I mostly work with Java Spring boot, Angular, React and Redux. I am also brushing up on my devops skills.</p>
 
