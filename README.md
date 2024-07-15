@@ -28,7 +28,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232AF7A9&center=true&lines=Always+open+to+collaborations!)](https://git.io/typing-svg)
 
+#### Repository Languages
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shwetaps605&hide_title=true&layout=compact&theme=flat)
+
+#### Trophy Collection
+
+![](https://github-profile-trophy.vercel.app/?username=shwetaps605&theme=react)
 
 <!-- <p> 
  <a href="https://twitter.com/OyeRoyy"> 
