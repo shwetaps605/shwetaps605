@@ -25,9 +25,9 @@
 </div> -->
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shwetaps605)](https://git.io/streak-stats)
+#### Code Streak
 
-<br></br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shwetaps605)](https://git.io/streak-stats)
 
 #### Repository Languages
 
