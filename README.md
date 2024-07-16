@@ -14,7 +14,6 @@
 - 👀 I'm currently focusing on **Web2** and exploring **Web3** through a peephole
 - 🔭 I'm currently learning **ReactJS, Solidity**
 - 💬 Love to talk about:**books,tech, movies, tv and web series, animes**
-- 💻 **Coding helps me sleep better**
 
 <br></br>
 <!-- <div display='flex' justify-content='space-between'>
