@@ -5,14 +5,14 @@
 <br/>
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232AF7A9&center=true&lines=Always+open+to+collaborations!)](https://git.io/typing-svg) -->
 
-<p>I am a frontend developer currently working at Daimler Trucks Innovation Centre India, Bengaluru, India. My current work revolves around setting up a global, unified fleet management platform. I mostly work with Angular, React and Redux. I am also brushing up on my devops skills.</p>
+<p>I am a frontend developer currently working at Daimler Trucks Innovation Centre India, Bengaluru, India. My current work revolves around setting up a global, unified fleet management platform. I mostly work with Angular, React and Redux. I am learning NextJS on the side.</p>
 
 <br/>
 
 ### 🚀 About
 - 🎓 Majored in Computer Science and Engineering (Class of 2021) 
 - 👀 I'm currently focusing on **Web2** and exploring **Web3** through a peephole
-  - 🔭 I'm currently learning **NextJS, React, Angular**
+- 🔭 I'm currently learning **NextJS, React, Angular**
 - 💬 Love to talk about:**books,tech, movies, tv and web series, animes**
 
 <br></br>
