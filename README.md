@@ -1,7 +1,7 @@
 <!-- <img align='center' src="" alt="banner" border="0"><br /> -->
 ![](https://github.com/shwetaps605/shwetaps605/blob/main/banner.png)
 
-<h3>Hajimemashite!</h3> (Nice to meet you)
+<h3>Hajimemashite!  (Nice to meet you)</h3>
 <br/>
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232AF7A9&center=true&lines=Always+open+to+collaborations!)](https://git.io/typing-svg) -->
 
