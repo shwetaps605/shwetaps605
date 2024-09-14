@@ -1,5 +1,5 @@
 <!-- <img align='center' src="" alt="banner" border="0"><br /> -->
-![](https://github.com/shwetaps605/shwetaps605/blob/main/banner.png)
+![](https://github.com/shwetaps605/shwetaps605/blob/main/cover.png)
 
 <h3>Hajimemashite!  (Nice to meet you)</h3>
 <br/>
